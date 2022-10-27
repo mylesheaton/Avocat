@@ -1,0 +1,202 @@
+body
+{
+    background-color: white;
+    width: 100vw;
+
+}
+header
+{
+    height: 160px;
+    background-color: white;
+    width: 100vw;
+}
+nav
+{
+    height: 60px;
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.un
+{
+    height: 500px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.Deux
+{
+    background-color: #2B2745;
+    height: 500px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Trois
+{
+    height: 500px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.Grey
+{
+    color: gray;
+}
+.Phonebox
+{
+    width: 130px;
+    height: 40px;
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 150px;
+    margin-top: 20px;
+    border: solid 1px black;
+    
+}
+.Row
+{
+    display: flex;
+    flex-direction: row;
+}
+.Logoheader
+{
+    margin-left: 50px;
+}
+.Milieu
+{
+    text-align: center;
+    margin-top: 10px;
+    
+    
+    
+}
+header span :hover
+{
+    background-color: black;
+    color: white;
+}
+nav div a
+{
+    text-decoration: none;
+    
+    align-items: center;
+}
+nav div
+{
+    border-bottom: solid 1px black;
+}
+.danequin
+{
+    background-image: url("../danequin.jpeg");
+}
+.Cartedevisite
+{
+    width: 560px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Flex
+    {
+        display: flex;
+    }
+.Blanc
+{
+    color: white;
+}
+.Souligne
+{
+    border-bottom: solid 1px grey;
+}
+.DomInter
+{
+    width: 300px;
+    height: 100px;
+    background-color: #2B2745;
+    color: white;
+    text-align: center;
+    border-bottom: solid 1px white;
+}
+.Citation
+{
+    width: 300px;
+    height: 100px;
+    background-color: #2B2745;
+    text-align: center;
+    color: white;
+}
+.Droit
+{
+    width: 600px;
+    height: 250px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.Margin0
+{
+    margin: 0%;
+}
+.Boxdroit
+{
+    width: 200px;
+    height: 250px;
+    background-color: #2B2745;
+    display: flex;
+    
+}
+.Boxdroit2
+{
+    width: 200px;
+    height: 250px;
+    background-color: #2B2745;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
+.FlexColumn
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.Bouton
+{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+.Centre
+{
+    justify-content: center;
+}
+.Hauteur
+{
+    height: 160px;
+}
+.EnSavoirPlus
+{
+    width: 150px;
+    height: 40px;
+    border: solid 1px black;
+    text-align: center;
+    color: black;
+    
+}
+.EnSavoirPlus a
+{
+    text-decoration: none;
+}
